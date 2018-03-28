@@ -1,5 +1,5 @@
 # Contact Form Example
-## By [Jaden Holladay](http://jadenholladay.com/) & [Logan Erickson](https://www.loganerickson.com/)
+#### Authors: [Jaden Holladay](http://jadenholladay.com/) & [Logan Erickson](https://www.loganerickson.com/)
 
 ### Libraries & Dependencies
  * [FormSpree](https://formspree.io/)
